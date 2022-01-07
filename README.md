@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohxander
 - 👀 I’m interested in developing web applications, solving problems, producing innovative ideas, electronics
 - 🌱 I’m currently learning Shell Scripting, Embedded Systems, C/C++
-- 💞️ I’m looking to collaborate on Web Applications, Electronics Programs
+- 💞️ I’m looking to collaborate on Web Applications,Embedded Electronics Programs
 - 📫 How to reach me : rohitmanjappallil@gmail.com
 
 <!---
